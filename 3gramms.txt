@@ -1,0 +1,7 @@
+﻿NOUN	nmod	NOUN	case	ADP	gov
+VERB	iobj	NOUN	case	ADP	gov
+VERB	obl	NOUN	case	ADP	gov
+NOUN	conj	NOUN	cc	CCONJ	agr	
+VERB	conj	VERB	cc	CCONJ	agr
+ADJ	conj	ADJ	cc	CCONJ	agr
+ADV	conj	ADV	cc	CCONJ	agr
