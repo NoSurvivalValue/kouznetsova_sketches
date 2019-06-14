@@ -1,0 +1,10 @@
+﻿nsubj	head	Subject
+nsubj:pass	head	Passive_Subject
+obj	head	Object
+advmod	head	Adverb_Modified
+xcomp	dep	Dependent_of_Verb
+xcomp	head	Head_of_Verb
+dep	dep	Dep
+iobj	head	Indirect_Object
+obl	head	Oblique_Object
+obl	dep	Dependent_of_Noun

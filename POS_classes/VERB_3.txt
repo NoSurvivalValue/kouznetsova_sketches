@@ -1,0 +1,3 @@
+﻿iobj|case	Adposition_with_Indirect_Object
+obl|case	Adposition_with_Oblique_Object
+conj|cc	Conjuction

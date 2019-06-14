@@ -1,0 +1,10 @@
+﻿nmod	head	Noun_Modified
+nmod	dep	Modifies_Noun
+nsubj	dep	Subject_of
+nsubj:pass	dep	Subject_of_Passive
+obj	dep	Object_of
+iobj	dep	Inderect_Object_of
+obl	dep	Oblique_Object_of
+case	head	With_Adposition
+amod	head	Adjective_Modified
+obl	head	Head_of_VErb

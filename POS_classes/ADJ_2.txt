@@ -1,0 +1,3 @@
+﻿amod	dep	Modifies_Noun
+advmod	head	Adverb_Modified
+nsubj	head	Subject

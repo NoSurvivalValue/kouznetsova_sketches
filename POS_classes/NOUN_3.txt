@@ -1,0 +1,4 @@
+﻿iob|case	Indirect_Object_with_Adposition
+obl|case	Oblique_Object_with_Adposition
+conj|cc	Conjuction
+nmod|case	Adposition_with_Noun_Modifier
